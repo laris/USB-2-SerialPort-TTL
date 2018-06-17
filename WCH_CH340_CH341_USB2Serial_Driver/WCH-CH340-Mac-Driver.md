@@ -1,0 +1,10 @@
+http://www.wch.cn/download/CH341SER_MAC_ZIP.html
+
+CH341SER_MAC.ZIP
+资料名称：CH341SER_MAC.ZIP
+资料类型：驱动&工具
+资料大小：148KB
+资料版本：1.4
+更新时间：2017-01-11
+软件简介：CH340/CH341的USB转串口MAC OS驱动程序的安装包，支持32/64位系统，内有使用说明。
+适用范围：CH340G，CH340C，CH340B，CH340E，CH340T，CH340R，CH341A，CH341T，CH341H
